@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Plataforma 5 Coding Bootcamp**
 
-- 🌱 I’m currently learning **MongoDB and React Native**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **Developing team where I can keep improving my skills and reach my full potential**
 
