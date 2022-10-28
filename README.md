@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Plataforma 5 Coding Bootcamp**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MS SQL**
 
 - 👯 I’m looking to collaborate on **Developing team where I can keep improving my skills and reach my full potential**
 
-- 💬 Ask me about **JavaScript, ReactJs, Redux, Node.Js, PostgreSQL**
+- 💬 Ask me about **JavaScript, ReactJs, Redux, Node.Js, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **igarciariestra@gmail.com**
 
