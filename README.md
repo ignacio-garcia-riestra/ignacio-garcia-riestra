@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ignacio García Riestra</h1>
 <h3 align="center">A FullStack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Plataforma 5 Coding Bootcamp**
+- 🔭 I’m currently working on **Pigmalion Software**
 
-- 🌱 I’m currently learning **MS SQL**
+- 🌱 I’m currently learning **Qurkus + Vert.x**
 
 - 👯 I’m looking to collaborate on **Developing team where I can keep improving my skills and reach my full potential**
 
-- 💬 Ask me about **JavaScript, ReactJs, Redux, Node.Js, PostgreSQL, MongoDB**
+- 💬 Ask me about **JavaScript, ReactJs, Redux, Node.Js, PostgreSQL, MongoDB, Typescript, JWT, Tailwind, Java**
 
 - 📫 How to reach me **igarciariestra@gmail.com**
 
