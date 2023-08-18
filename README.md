@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio García Riestra</h1>
 <h3 align="center">A FullStack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Pigmalion Software**
-
-- 🌱 I’m currently learning **Qurkus + Vert.x**
+- 🌱 I’m currently learning **NextJS 13**
 
 - 👯 I’m looking to collaborate on **Developing team where I can keep improving my skills and reach my full potential**
 
