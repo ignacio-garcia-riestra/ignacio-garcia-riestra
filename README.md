@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NextJS 13**
 
-- 👯 I’m looking to collaborate on **Developing team where I can keep improving my skills and reach my full potential**
-
 - 💬 Ask me about **JavaScript, ReactJs, Redux, Node.Js, PostgreSQL, MongoDB, Typescript, JWT, Tailwind, Java**
 
 - 📫 How to reach me **igarciariestra@gmail.com**
